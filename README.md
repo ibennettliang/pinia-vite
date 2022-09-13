@@ -1,0 +1,2 @@
+# pinia-vite
+pinia-vite
